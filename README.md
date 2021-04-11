@@ -1,6 +1,6 @@
 > 2021届全国物联网设计大赛
 >
-> ![image-20210411155729528](/home/qdl/.config/Typora/typora-user-images/image-20210411155729528.png)
+> ![image-20210411155729528](https://i.loli.net/2021/04/11/4O3li6dLVMTDCjh.png)
 
 
 
@@ -16,11 +16,11 @@
 
 > **硬件支持**
 
-- HiLens Kit 多模态AI开发套件
+- **HiLens Kit 多模态AI开发套件**
 
-多模态AI开发套件，支持通过端云协同实现图像、视频、语音等多种数据分析与推理计算，可广泛用于智能监控、智慧家庭、AI教育、智慧工业、智慧门店等应用场景。
+多模态AI开发套件，支持通过端云协同实现图像、视频、语音等多种数据分析与推理计算，可广泛用于智能监控、智慧家庭、AI教育、智慧工业、智慧门店等应用场景。购买链接：https://account.huaweicloud.com/usercenter/?region=cn-north-4#/ordercenter/hardware?cloudServiceType=hws.service.type.hilenskit&resourceType=hws.resource.type.hilens.kit
 
-购买链接：https://account.huaweicloud.com/usercenter/?region=cn-north-4#/ordercenter/hardware?cloudServiceType=hws.service.type.hilenskit&resourceType=hws.resource.type.hilens.kit
+
 
 
 
