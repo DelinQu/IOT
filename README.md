@@ -58,3 +58,14 @@
 | 安装技能       | 在HiLens Studio中编辑完技能代码，可以直接把技能安装到设备上。 | [安装技能](https://support.huaweicloud.com/usermanual-hilens/hilens_02_0090.html) |
 | 启动技能       | 把技能安装至设备后，可以直接在HiLens Studio中启动技能，查看技能运行效果。 | [启动或停止技能](https://support.huaweicloud.com/usermanual-hilens/hilens_02_0091.html) |
 | 发布技能       | 针对已经调试好的技能，可以在HiLens Studio中发布技能至华为HiLens平台技能市场，供其他用户使用。 | [发布技能](https://support.huaweicloud.com/usermanual-hilens/hilens_02_0089.html) |
+
+
+
+
+
+## 任务
+
+- 熟悉ModelArts
+- 跑通安全帽的demo
+- **自己找一个Tensoflow一个安全帽的算法并且在ModelArts上跑通转换为MIndSinp模型**
+- 结束
