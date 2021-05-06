@@ -69,3 +69,14 @@
 - 跑通安全帽的demo
 - **自己找一个Tensoflow一个安全帽的算法并且在ModelArts上跑通转换为MIndSinp模型**
 - 结束
+
+
+
+
+
+
+
+## 人脸识别
+
+- tensorflow：https://hub.fastgit.org/inorilzy/renlian/blob/master/model/face.model
+- 最佳实践：https://support.huaweicloud.com/bestpractice-modelarts/modelarts_10_0038.html#modelarts_10_0038__zh-cn_topic_0210438981_section441945153220
