@@ -5,3 +5,4 @@
 ![image-20210505145726109](https://i.loli.net/2021/05/05/xZkwYg5LdGI1Aaf.png)
 
 - https://gitee.com/lovingascend/ADKInstaller#adkinstaller
+
